@@ -6,6 +6,7 @@
 * [When do you need Blockchain](https://www.cointelligence.com/content/when-do-you-need-blockchain/)
 * [Blockchain versus Traditional Databases](https://hackernoon.com/blockchains-versus-traditional-databases-c1a728159f79)
 * [What is the Difference Between a Blockchain and a Database?](https://www.coindesk.com/information/what-is-the-difference-blockchain-and-database/)
+* [The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
 
 ### Corda
 * [Corda Introductory Whitepaper](https://docs.corda.net/_static/corda-introductory-whitepaper.pdf)
