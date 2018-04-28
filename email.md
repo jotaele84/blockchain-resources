@@ -4,6 +4,8 @@
 * [When is a Blockchain not a Blockchain?](http://www.r3cev.com/blog/2017/2/24/when-is-a-blockchain-not-a-blockchain)
 * [Thoughts on the taxonomy of blockchains & distributed ledger technologies](https://www.linkedin.com/pulse/thoughts-taxonomy-blockchains-distributed-ledger-colin-platt/)
 * [When do you need Blockchain](https://www.cointelligence.com/content/when-do-you-need-blockchain/)
+* [Blockchain versus Traditional Databases](https://hackernoon.com/blockchains-versus-traditional-databases-c1a728159f79)
+* [What is the Difference Between a Blockchain and a Database?](https://www.coindesk.com/information/what-is-the-difference-blockchain-and-database/)
 
 ### Corda
 * [Corda Introductory Whitepaper](https://docs.corda.net/_static/corda-introductory-whitepaper.pdf)
