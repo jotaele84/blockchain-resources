@@ -9,12 +9,15 @@
 * [The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
 
 ### Corda
-* [New to Corda? Start here!](https://medium.com/corda/new-to-corda-start-here-8ba9b48ab96c)
+* [New to Corda? Start here!](https://medium.com/corda/new-to-corda-start-here-8ba9b48ab96c) By Richard Gendal Brown - CTO at R3
+* [Corda Key Concepts](https://docs.corda.net/key-concepts.html) A very good technical introductory approach
 * [Corda Introductory Whitepaper](https://docs.corda.net/_static/corda-introductory-whitepaper.pdf)
 * [Corda Technical Whitepaper](https://docs.corda.net/_static/corda-technical-whitepaper.pdf)
 * [What is Corda from R3?](https://medium.com/@mark.heaver/what-is-corda-from-r3-6f0657572ac1)
+* [The Corda Way of Thinking](https://gendal.me/2017/02/21/the-corda-way-of-thinking/) By Richard Gendal Brown - CTO at R3
 * [Comparison of Ethereum, Hyperledger Fabric and Corda](https://medium.com/@philippsandner/comparison-of-ethereum-hyperledger-fabric-and-corda-21c1bb9442f6)
 * [Observer Nodes](https://docs.corda.net/tutorial-observer-nodes.html)
+* [What Slack Can Teach Us About Privacy In Enterprise Blockchains](https://gendal.me/2017/07/20/what-slack-can-teach-us-about-privacy-in-enterprise-blockchains/) By Richard Gendal Brown - CTO at R3. Covers the scalability issue of Hyperledger's channel concept
 
 ### Ripple
 * [Ripple Consensus Algorithm](https://ripple.com/files/ripple_consensus_whitepaper.pdf)
