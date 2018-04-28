@@ -6,6 +6,7 @@
 * [When do you need Blockchain](https://www.cointelligence.com/content/when-do-you-need-blockchain/)
 * [Blockchain versus Traditional Databases](https://hackernoon.com/blockchains-versus-traditional-databases-c1a728159f79)
 * [What is the Difference Between a Blockchain and a Database?](https://www.coindesk.com/information/what-is-the-difference-blockchain-and-database/)
+* [The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
 
 ### Corda
 * [New to Corda? Start here!](https://medium.com/corda/new-to-corda-start-here-8ba9b48ab96c)
@@ -16,9 +17,7 @@
 * [Observer Nodes](https://docs.corda.net/tutorial-observer-nodes.html)
 
 ### Ripple
+* [Ripple Consensus Algorithm](https://ripple.com/files/ripple_consensus_whitepaper.pdf)
 * [10 Things You Need to Know About XRP](https://ripple.com/insights/10-things-need-know-xrp/)
-* [David Schwartz - Chief Cryptographer at Ripple - Quora profile](https://www.quora.com/profile/David-Schwartz-9)
-* [Stefan Thomas - CTO at Ripple - Quora profile](https://www.quora.com/profile/Stefan-Thomas-1)
-
-
-
+* [David Schwartz - Chief Cryptographer at Ripple - Quora profile](https://www.quora.com/profile/David-Schwartz-9) Covering Ripple technology and cryptography
+* [Stefan Thomas - CTO at Ripple - Quora profile](https://www.quora.com/profile/Stefan-Thomas-1) Q&A on Ripple and Blockchain technology
