@@ -9,4 +9,4 @@ The main file to work on is email.md
 - [x] create Corda section
 - [x] create Ripple section
 - [ ] create Hyperledger Fabric section
-- [ ] create Hyperledger QuILt section @earizon can you help with this?
+- [ ] create Hyperledger QuILt section
