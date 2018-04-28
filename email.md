@@ -8,8 +8,10 @@
 * [What is the Difference Between a Blockchain and a Database?](https://www.coindesk.com/information/what-is-the-difference-blockchain-and-database/)
 
 ### Corda
+* [New to Corda? Start here!](https://medium.com/corda/new-to-corda-start-here-8ba9b48ab96c)
 * [Corda Introductory Whitepaper](https://docs.corda.net/_static/corda-introductory-whitepaper.pdf)
 * [Corda Technical Whitepaper](https://docs.corda.net/_static/corda-technical-whitepaper.pdf)
+* [What is Corda from R3?](https://medium.com/@mark.heaver/what-is-corda-from-r3-6f0657572ac1)
 * [Comparison of Ethereum, Hyperledger Fabric and Corda](https://medium.com/@philippsandner/comparison-of-ethereum-hyperledger-fabric-and-corda-21c1bb9442f6)
 * [Observer Nodes](https://docs.corda.net/tutorial-observer-nodes.html)
 
