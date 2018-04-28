@@ -15,8 +15,5 @@
 
 ### Ripple
 * [10 Things You Need to Know About XRP](https://ripple.com/insights/10-things-need-know-xrp/)
-* [David Schwartz - Chief Cryptographer at Ripple - Quora profile](https://www.quora.com/profile/David-Schwartz-9)
-* [Stefan Thomas - CTO at Ripple - Quora profile](https://www.quora.com/profile/Stefan-Thomas-1)
-
-
-
+* [David Schwartz - Chief Cryptographer at Ripple - Quora profile](https://www.quora.com/profile/David-Schwartz-9) Covering Ripple technology and cryptography
+* [Stefan Thomas - CTO at Ripple - Quora profile](https://www.quora.com/profile/Stefan-Thomas-1) Q&A on Ripple and Blockchain technology
