@@ -1,6 +1,7 @@
 ### Blockchain
 * [What is the Distinction Between a Blockchain and a Distributed Ledger?](https://www.r3.com/blog/what-is-the-distinction-between-a-blockchain-and-a-distributed-ledger/)
 * [The Difference Between Blockchains & Distributed Ledger Technology](https://towardsdatascience.com/the-difference-between-blockchains-distributed-ledger-technology-42715a0fa92)
+* [Blockchain vs. Distributed Ledger Technologies](https://media.consensys.net/blockchain-vs-distributed-ledger-technologies-1e0289a87b16) Part 1 of a comparative analysis between Ethereum, Hyperledger Fabric and R3 Corda
 * [When is a Blockchain not a Blockchain?](http://www.r3cev.com/blog/2017/2/24/when-is-a-blockchain-not-a-blockchain)
 * [Thoughts on the taxonomy of blockchains & distributed ledger technologies](https://www.linkedin.com/pulse/thoughts-taxonomy-blockchains-distributed-ledger-colin-platt/)
 * [When do you need Blockchain](https://www.cointelligence.com/content/when-do-you-need-blockchain/)
