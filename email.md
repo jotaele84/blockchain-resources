@@ -8,6 +8,7 @@
 * [Blockchain versus Traditional Databases](https://hackernoon.com/blockchains-versus-traditional-databases-c1a728159f79)
 * [What is the Difference Between a Blockchain and a Database?](https://www.coindesk.com/information/what-is-the-difference-blockchain-and-database/)
 * [The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
+* [Wolf in Sheep's Clothing: Disruption Ahead for Transaction Banking](http://www.bain.com/publications/articles/disruption-ahead-for-transaction-banking.aspx)
 
 ### Corda
 * [New to Corda? Start here!](https://medium.com/corda/new-to-corda-start-here-8ba9b48ab96c) By Richard Gendal Brown - CTO at R3
