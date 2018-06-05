@@ -22,6 +22,11 @@
 * [Observer Nodes](https://docs.corda.net/tutorial-observer-nodes.html)
 * [What Slack Can Teach Us About Privacy In Enterprise Blockchains](https://gendal.me/2017/07/20/what-slack-can-teach-us-about-privacy-in-enterprise-blockchains/) By Richard Gendal Brown - CTO at R3. Covers the scalability issue of Hyperledger's channel concept
 
+### Hyperledger
+* [Learn the Basics](https://www.hyperledger.org/community/basics) Get started by getting an overview of the Hyperledger project
+* [Contribute to Coding](https://www.hyperledger.org/community/coding) Information developers need to know about Hyperledger
+
+
 ### Ripple
 * [Ripple Consensus Algorithm](https://ripple.com/files/ripple_consensus_whitepaper.pdf)
 * [10 Things You Need to Know About XRP](https://ripple.com/insights/10-things-need-know-xrp/)
