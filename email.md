@@ -35,4 +35,8 @@
 
 ### Interledger and Hyperledger quILt
 * [Interledger](https://interledger.org/) The procol for connecting ledgers
+* [Interledger whitepaper](https://interledger.org/interledger.pdf) By Stefan Thomas & Evan Schwartz
 * [Hyperledger Gets Cozy With Quilt](https://www.hyperledger.org/blog/2017/10/16/hyperledger-gets-cozy-with-quilt) Interledger's Java implementation
+
+
+
