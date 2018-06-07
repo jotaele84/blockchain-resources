@@ -31,6 +31,7 @@
 * [Ripple Consensus Algorithm](https://ripple.com/files/ripple_consensus_whitepaper.pdf)
 * [10 Things You Need to Know About XRP](https://ripple.com/insights/10-things-need-know-xrp/)
 * [Codius Smart Contracts](https://medium.com/coil/codius-smart-contracts-made-from-containers-b3b16c3e3890)
+* [Running a simple React app on the Codius smart contract platform](https://medium.com/codius/running-a-simple-react-app-on-the-codius-smart-contract-platform-7ddefce8cb06)
 * [David Schwartz - Chief Cryptographer at Ripple - Quora profile](https://www.quora.com/profile/David-Schwartz-9) Covering Ripple technology and cryptography
 * [Stefan Thomas - CTO at Ripple - Quora profile](https://www.quora.com/profile/Stefan-Thomas-1) Q&A on Ripple and Blockchain technology
 
