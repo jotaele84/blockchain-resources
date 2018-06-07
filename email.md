@@ -1,3 +1,6 @@
+### Our everis vision in Blockchain & DLT
+* [Our everis vision about the Advent of the Internet of Value](https://github.com/jotaele84/blockchain-resources/blob/master/Resources/The%20Advent%20of%20the%20Internet%20of%20Value.pdf)
+
 ### Blockchain & DLT
 * [What is the Distinction Between a Blockchain and a Distributed Ledger?](https://www.r3.com/blog/what-is-the-distinction-between-a-blockchain-and-a-distributed-ledger/)
 * [The Difference Between Blockchains & Distributed Ledger Technology](https://towardsdatascience.com/the-difference-between-blockchains-distributed-ledger-technology-42715a0fa92)
