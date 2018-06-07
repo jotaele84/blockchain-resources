@@ -38,6 +38,7 @@
 ### Interledger and Hyperledger quILt
 * [Interledger](https://interledger.org/) The procol for connecting ledgers
 * [Interledger whitepaper](https://interledger.org/interledger.pdf) By Stefan Thomas & Evan Schwartz
+* [STREAM](https://interledger.org/rfcs/0029-stream/) A Multiplexed Money and Data Transport for ILP
 * [Hyperledger Gets Cozy With Quilt](https://www.hyperledger.org/blog/2017/10/16/hyperledger-gets-cozy-with-quilt) Interledger's Java implementation
 
 
