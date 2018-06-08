@@ -13,7 +13,8 @@
 * [Wolf in Sheep's Clothing: Disruption Ahead for Transaction Banking](http://www.bain.com/publications/articles/disruption-ahead-for-transaction-banking.aspx)
 * [10 Advantages of Using Smart Contracts](https://medium.com/@ChainTrade/10-advantages-of-using-smart-contracts-bc29c508691a)
 * [Blockchain Revolution](http://blockchain-revolution.com/)
-* [Not all Business Blockchains Platforms are alike](https://www.r3.com/blog/not-all-business-blockchain-platforms-are-alike/) 
+* [Not all Business Blockchains Platforms are alike](https://www.r3.com/blog/not-all-business-blockchain-platforms-are-alike/)
+* [Blockchains and Data Protection in the European Union](https://github.com/jotaele84/blockchain-resources/blob/master/Resources/Blockchains-and-Data-Protection-in-the-European-Union.pdf) How GDPR can affect Blockchain-based solutions
 
 ### Corda
 * [New to Corda? Start here!](https://medium.com/corda/new-to-corda-start-here-8ba9b48ab96c) By Richard Gendal Brown - CTO at R3
