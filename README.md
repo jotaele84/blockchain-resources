@@ -8,5 +8,5 @@ The main file to work on is email.md
 - [x] create General section
 - [x] create Corda section
 - [x] create Ripple section
-- [ ] create Hyperledger Fabric section
-- [ ] create Hyperledger QuILt / Interledger section
+- [x] create Hyperledger section
+- [x] create Hyperledger QuILt / Interledger section
