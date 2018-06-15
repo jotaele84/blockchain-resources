@@ -15,6 +15,22 @@
 * [Blockchain Revolution](http://blockchain-revolution.com/)
 * [Not all Business Blockchains Platforms are alike](https://www.r3.com/blog/not-all-business-blockchain-platforms-are-alike/)
 * [Blockchains and Data Protection in the European Union](https://github.com/jotaele84/blockchain-resources/blob/master/Resources/Blockchains-and-Data-Protection-in-the-European-Union.pdf) How GDPR can affect Blockchain-based solutions
+* [Designing for Blockchain](https://medium.com/emerson-stone/designing-for-blockchain-f0e8c25997bd) What will the much-hyped technology mean for developers, creatives, and UX designers?
+* [How does bitcoin work?](https://medium.freecodecamp.org/how-does-bitcoin-work-i-built-an-app-to-show-you-f9fcd50bdd0d)
+* [5 blockchain trends to watch for in 2018](https://enterprisersproject.com/article/2017/12/5-blockchain-trends-watch-2018?sc_cid=7016000000127ECAAY)
+* [Real World Applications of Cryptocurrencies](https://hackernoon.com/real-world-applications-of-cryptocurrencies-cloud-computing-59745dd95145)
+* [Blockchain Platforms Will Make Us Happier](https://hackernoon.com/blockchain-platforms-will-make-us-happier-8e460eb2ce74)
+* [Why use the blockchain instead of a database? What gives tokens value?](https://hackernoon.com/why-use-the-blockchain-instead-of-a-database-what-gives-tokens-value-263449681153)
+* [Blockchain enabled smart contracts: all you need to know](https://www.allerin.com/blog/blockchain-enabled-smart-contracts-all-you-need-to-know)
+* [Review of blockchain consensus mechanisms](https://blog.wavesplatform.com/review-of-blockchain-consensus-mechanisms-f575afae38f2)
+* [Blockchain can make social networks more private](https://thenextweb.com/contributors/2017/08/21/blockchain-can-make-social-networks-private-profitable/)
+* [Live Demos of ConsenSys Projects](https://media.consensys.net/watch-live-demos-of-consensys-projects-85938238df74)
+* [Choosing private blockchain tech](https://hackernoon.com/choosing-private-blockchain-tech-quorum-d33221d40b54)
+* [Blockchain vs. Distributed Ledger Technologies - Part 1](https://media.consensys.net/blockchain-vs-distributed-ledger-technologies-1e0289a87b16)
+* [Blockchain vs. Distributed Ledger Technologies - Part 2](https://media.consensys.net/blockchains-vs-distributed-ledger-technologies-part-2-governing-dynamics-a697848d5b82)
+* [13 sidechain projects every blockchain developer should know about](https://hackernoon.com/13-sidechain-projects-every-blockchain-developer-should-know-about-804b65364107)
+* [Advanced Blockchain Concepts for Beginners](https://medium.com/@mycoralhealth/advanced-blockchain-concepts-for-beginners-32887202afad)
+* [Blockchain Design Principles](https://medium.com/design-ibm/blockchain-design-principles-599c5c067b6e)
 
 ### Corda
 * [New to Corda? Start here!](https://medium.com/corda/new-to-corda-start-here-8ba9b48ab96c) By Richard Gendal Brown - CTO at R3
@@ -30,6 +46,12 @@
 ### Hyperledger
 * [Learn the Basics](https://www.hyperledger.org/community/basics) Get started by getting an overview of the Hyperledger project
 * [Contribute to Coding](https://www.hyperledger.org/community/coding) Information developers need to know about Hyperledger
+* [Bleeding-edge Hyperledger Composer](https://medium.com/@sam_smith_77793/bleeding-edge-hyperledger-composer-a9f29e2b9fae)
+* [The Linux Foundation Hyperledger Composer Project](https://medium.com/@sam_smith_77793/the-linux-foundation-hyperledger-composer-project-f1a9442afd0d)
+* [AWS Hyperledger Fabric template](https://medium.com/coinmonks/get-started-with-blockchain-using-the-aws-hyperledger-fabric-template-an-unofficial-guide-551bc46af710)
+* [Building Enterprise Blockchain Applications In Hyperledger](https://medium.com/@madronaventurelabs/building-enterprise-blockchain-applications-in-hyperledger-8d869bb214d9)
+* [Understanding Hyperledger Fabric’s Architecture](https://medium.com/hyperlegendary/understanding-hyperledger-fabrics-architecture-3b37d81c3e96)
+
 
 ### Ripple
 * [Ripple Consensus Algorithm](https://ripple.com/files/ripple_consensus_whitepaper.pdf)
@@ -48,5 +70,6 @@
 * [STREAM](https://interledger.org/rfcs/0029-stream/) A Multiplexed Money and Data Transport for ILP
 * [Hyperledger Gets Cozy With Quilt](https://www.hyperledger.org/blog/2017/10/16/hyperledger-gets-cozy-with-quilt) Interledger's Java implementation
 
-
-
+### Quorum
+* [Building DApps for Quorum](http://truffleframework.com/tutorials/building-dapps-for-quorum-private-enterprise-blockchains)
+* [Quorum 101: Getting started with Quorum](https://hackernoon.com/quorum-101-getting-started-with-quorum-9906294ea45b)
