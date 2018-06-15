@@ -63,6 +63,7 @@
 * [Codius Smart Contracts](https://medium.com/coil/codius-smart-contracts-made-from-containers-b3b16c3e3890)
 * [Smart Oracles: A Simple, Powerful Approach to Smart Contracts](https://github.com/codius/codius/wiki/Smart-Oracles:-A-Simple,-Powerful-Approach-to-Smart-Contracts)
 * [Running a simple React app on the Codius smart contract platform](https://medium.com/codius/running-a-simple-react-app-on-the-codius-smart-contract-platform-7ddefce8cb06)
+* [Codius: Smart Contracts Done Right](https://xrpcommunity.blog/codius-smart-contracts-done-right/)
 
 ### Interledger and Hyperledger quILt
 * [Interledger](https://interledger.org/) The procol for connecting ledgers
