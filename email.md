@@ -16,9 +16,7 @@
 * [Not all Business Blockchains Platforms are alike](https://www.r3.com/blog/not-all-business-blockchain-platforms-are-alike/)
 * [Blockchains and Data Protection in the European Union](https://github.com/jotaele84/blockchain-resources/blob/master/Resources/Blockchains-and-Data-Protection-in-the-European-Union.pdf) How GDPR can affect Blockchain-based solutions
 * [Designing for Blockchain](https://medium.com/emerson-stone/designing-for-blockchain-f0e8c25997bd) What will the much-hyped technology mean for developers, creatives, and UX designers?
-* [How does bitcoin work?](https://medium.freecodecamp.org/how-does-bitcoin-work-i-built-an-app-to-show-you-f9fcd50bdd0d)
 * [5 blockchain trends to watch for in 2018](https://enterprisersproject.com/article/2017/12/5-blockchain-trends-watch-2018?sc_cid=7016000000127ECAAY)
-* [Real World Applications of Cryptocurrencies](https://hackernoon.com/real-world-applications-of-cryptocurrencies-cloud-computing-59745dd95145)
 * [Blockchain Platforms Will Make Us Happier](https://hackernoon.com/blockchain-platforms-will-make-us-happier-8e460eb2ce74)
 * [Why use the blockchain instead of a database? What gives tokens value?](https://hackernoon.com/why-use-the-blockchain-instead-of-a-database-what-gives-tokens-value-263449681153)
 * [Blockchain enabled smart contracts: all you need to know](https://www.allerin.com/blog/blockchain-enabled-smart-contracts-all-you-need-to-know)
