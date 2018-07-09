@@ -24,7 +24,6 @@
 * [Blockchain enabled smart contracts: all you need to know](https://www.allerin.com/blog/blockchain-enabled-smart-contracts-all-you-need-to-know)
 * [Review of blockchain consensus mechanisms](https://blog.wavesplatform.com/review-of-blockchain-consensus-mechanisms-f575afae38f2)
 * [Blockchain can make social networks more private](https://thenextweb.com/contributors/2017/08/21/blockchain-can-make-social-networks-private-profitable/)
-* [Live Demos of ConsenSys Projects](https://media.consensys.net/watch-live-demos-of-consensys-projects-85938238df74)
 * [Choosing private blockchain tech](https://hackernoon.com/choosing-private-blockchain-tech-quorum-d33221d40b54)
 * [Blockchain vs. Distributed Ledger Technologies - Part 1](https://media.consensys.net/blockchain-vs-distributed-ledger-technologies-1e0289a87b16)
 * [Blockchain vs. Distributed Ledger Technologies - Part 2](https://media.consensys.net/blockchains-vs-distributed-ledger-technologies-part-2-governing-dynamics-a697848d5b82)
