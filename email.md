@@ -10,6 +10,8 @@
 * [Blockchain versus Traditional Databases](https://hackernoon.com/blockchains-versus-traditional-databases-c1a728159f79)
 * [What is the Difference Between a Blockchain and a Database?](https://www.coindesk.com/information/what-is-the-difference-blockchain-and-database/)
 * [The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
+* [Confused About Blockchains? Here’s What You Need to Know](https://www.nytimes.com/2018/06/27/business/dealbook/blockchains-guide-information.html)
+* [A Guide to the World of Blockchain](https://www.nytimes.com/interactive/2018/06/27/business/dealbook/blockchain-currencies.html)
 * [Wolf in Sheep's Clothing: Disruption Ahead for Transaction Banking](http://www.bain.com/publications/articles/disruption-ahead-for-transaction-banking.aspx)
 * [10 Advantages of Using Smart Contracts](https://medium.com/@ChainTrade/10-advantages-of-using-smart-contracts-bc29c508691a)
 * [Blockchain Revolution](http://blockchain-revolution.com/)
