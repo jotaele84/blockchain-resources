@@ -30,6 +30,9 @@
 * [13 sidechain projects every blockchain developer should know about](https://hackernoon.com/13-sidechain-projects-every-blockchain-developer-should-know-about-804b65364107)
 * [Advanced Blockchain Concepts for Beginners](https://medium.com/@mycoralhealth/advanced-blockchain-concepts-for-beginners-32887202afad)
 * [Blockchain Design Principles](https://medium.com/design-ibm/blockchain-design-principles-599c5c067b6e)
+* [Blockchain-GDPR Paradox](https://medium.com/wearetheledger/the-blockchain-gdpr-paradox-fc51e663d047)
+
+
 
 ### Corda
 * [New to Corda? Start here!](https://medium.com/corda/new-to-corda-start-here-8ba9b48ab96c) By Richard Gendal Brown - CTO at R3
