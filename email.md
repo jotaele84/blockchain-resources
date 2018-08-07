@@ -46,6 +46,7 @@
 * [What Slack Can Teach Us About Privacy In Enterprise Blockchains](https://gendal.me/2017/07/20/what-slack-can-teach-us-about-privacy-in-enterprise-blockchains/) By Richard Gendal Brown - CTO at R3. Covers the scalability issue of Hyperledger's channel concept
 
 ### Hyperledger
+* [An introducion to Hyperledger](https://www.hyperledger.org/wp-content/uploads/2018/08/HL_Whitepaper_IntroductiontoHyperledger.pdf) Hyperledger whitepaper (new as of August 2018)
 * [Learn the Basics](https://www.hyperledger.org/community/basics) Get started by getting an overview of the Hyperledger project
 * [Contribute to Coding](https://www.hyperledger.org/community/coding) Information developers need to know about Hyperledger
 * [Bleeding-edge Hyperledger Composer](https://medium.com/@sam_smith_77793/bleeding-edge-hyperledger-composer-a9f29e2b9fae)
